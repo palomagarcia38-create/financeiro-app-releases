@@ -1,8 +1,8 @@
 {
-  "version_name": "7.1.2",
-  "build_number": 110,
-  "download_url": "https://github.com/palomagarcia38-create/financeiro-app-releases/releases/download/android-build-v7.1.2-110/Carteira-Financeira-7.1.2-110.apk",
-  "sha256": "0c44cdf5f0616514d7806d17650e2a2dfc8b4c067041ed88193a2b1b9378c13c",
+  "version_name": "7.1.3",
+  "build_number": 111,
+  "download_url": "https://github.com/palomagarcia38-create/financeiro-app-releases/releases/download/android-build-v7.1.3-111/Carteira-Financeira-7.1.3-111.apk",
+  "sha256": "4a3c564c8ecf4fc9daeaca7bcff558cf77de552ed642d30a563d27f2910a02f3",
   "release_notes": "Atualização Android automática",
   "is_mandatory": false
 }
